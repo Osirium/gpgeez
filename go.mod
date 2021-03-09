@@ -1,4 +1,4 @@
-module github.com/NeilGerring/gpgeez
+module github.com/osirium/gpgeez
 
 go 1.15
 
